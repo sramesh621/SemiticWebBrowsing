@@ -1,0 +1,4 @@
+node: bf75471716c53f2d8e94284f3d37ad6f209459d6
+node-date: 2026-10-29T04:44:30Z
+describe-name: FIREFOX_BETA_160_BASE-1300-gbf75471716c53
+ref-names: HEAD -> main
